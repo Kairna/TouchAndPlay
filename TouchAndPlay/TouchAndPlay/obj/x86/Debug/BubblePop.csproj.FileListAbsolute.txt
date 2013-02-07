@@ -1,0 +1,33 @@
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\BubblePop.exe
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\BubblePop.pdb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\obj\x86\Debug\BubblePop.exe
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\obj\x86\Debug\BubblePop.pdb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\jointDefaultTexture.xnb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_highlighted.xnb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_normal.xnb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\lines\line.xnb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_inactive.xnb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\lines\directionLine.xnb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_locked.xnb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\stageboxes\window_preparing.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\jointDefaultTexture.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_highlighted.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_normal.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\lines\line.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_inactive.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\lines\directionLine.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\bubbles\bubble_hand_locked.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\stageboxes\window_preparing.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\fonts\BasicFont.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\BubblePop.exe
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\BubblePop.pdb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\obj\x86\Debug\BubblePop.exe
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\obj\x86\Debug\BubblePop.pdb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\stageboxes\basicBox.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\fonts\NotificationHeadingFont.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\fonts\NotificationMsgFont.xnb
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePop\bin\x86\Debug\Content\effects\basic_particle.xnb

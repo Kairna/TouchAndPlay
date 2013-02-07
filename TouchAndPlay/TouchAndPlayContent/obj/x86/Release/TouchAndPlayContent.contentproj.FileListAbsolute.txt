@@ -1,0 +1,2 @@
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePopContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Me\Dropbox\TouchAndPlay\TouchAndPlay\TouchAndPlayContent\obj\x86\Release\ResolveAssemblyReference.cache

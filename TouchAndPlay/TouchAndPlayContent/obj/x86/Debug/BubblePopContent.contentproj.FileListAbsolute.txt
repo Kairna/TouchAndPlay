@@ -1,0 +1,2 @@
+C:\Users\Me\Documents\Visual Studio 2010\Projects\BubblePop\BubblePop\BubblePopContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Me\Dropbox\BubblePop\BubblePop\BubblePopContent\obj\x86\Debug\ResolveAssemblyReference.cache

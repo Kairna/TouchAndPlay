@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchAndPlay", "TouchAndPlay\TouchAndPlay\TouchAndPlay.csproj", "{C0B391B5-5BD8-43E7-86FA-CA00948AC58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchAndPlayContent", "TouchAndPlay\TouchAndPlayContent\TouchAndPlayContent.contentproj", "{350B6E3F-5D24-41F4-B468-C4D37EFE715D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B391B5-5BD8-43E7-86FA-CA00948AC58F}.Debug|x86.ActiveCfg = Debug|x86
+		{C0B391B5-5BD8-43E7-86FA-CA00948AC58F}.Debug|x86.Build.0 = Debug|x86
+		{C0B391B5-5BD8-43E7-86FA-CA00948AC58F}.Release|x86.ActiveCfg = Release|x86
+		{C0B391B5-5BD8-43E7-86FA-CA00948AC58F}.Release|x86.Build.0 = Release|x86
+		{350B6E3F-5D24-41F4-B468-C4D37EFE715D}.Debug|x86.ActiveCfg = Debug|x86
+		{350B6E3F-5D24-41F4-B468-C4D37EFE715D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
